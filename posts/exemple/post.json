@@ -1,0 +1,14 @@
+{
+  "legende": "Exemple de rendu, jamais publié.",
+  "textes_alternatifs": ["Couverture", "Liste de trois rendez-vous", "Conseil pour relancer", "Appel à partager"],
+  "images": [
+    {"type": "couverture", "classe": "marine", "sur": "Agenda de la semaine", "titre": "5 rendez-vous pour *décrocher* un emploi.", "texte": "Forums, job datings et rencontres autour de La Rochelle."},
+    {"type": "liste", "sur": "Cette semaine", "titre": "Ils recrutent, allez les *rencontrer*.", "elements": [
+      {"jour": "Mar.", "num": "25", "titre": "Rencontre avec Adecco", "detail": "Lagord · 9h30 · apportez un CV à jour"},
+      {"jour": "Jeu.", "num": "27", "titre": "Jeudi de l'intérim : Interim Nation", "detail": "La Rochelle · 9h30 · nautique et bâtiment"},
+      {"jour": "Ven.", "num": "28", "titre": "Agent de sûreté aéroportuaire", "detail": "La Rochelle · 9h30 · réunion d'information avec ICTS"}
+    ]},
+    {"type": "texte", "sur": "Le conseil", "titre": "Relancer sans être *lourd*.", "paragraphes": ["Une absence de réponse n'est pas un refus : le mail a pu être lu un jour de rush, puis oublié."], "encadre": {"titre": "À retenir", "texte": "Relancez au bout d'une semaine à dix jours, poliment, en répondant au mail d'origine."}},
+    {"type": "fin", "classe": "rouille", "sur": "Gratuit · sans inscription", "titre": "Tout l'agenda sur le *site*.", "texte": "Les détails et les inscriptions sont sur la-rochelle-travail.fr/agenda.", "appel": "Envoyez ce post à quelqu'un qui cherche du travail."}
+  ]
+}

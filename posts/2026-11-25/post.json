@@ -1,0 +1,25 @@
+{
+  "legende": "6 rendez-vous pour rencontrer des recruteurs d'ici le 3 décembre, autour de La Rochelle 📅\n\n🔧 Jeudi 26 novembre, 9h : Randstad Inhouse recrute à Lagord, dans l'industrie (soudeurs, monteurs, agents d'usinage… profils expérimentés)\n📦 Jeudi 26, 9h : Abalone recrute à Lagord, en logistique et en agroalimentaire. Apportez votre CV à jour\n🛠️ Jeudi 26, 9h30 : Jeudi de l'intérim avec LIP, à La Rochelle (industrie, bâtiment, logistique)\n🏠 Vendredi 27, 9h30 : Shiva recrute des employé(e)s de maison, à La Rochelle. Débutants acceptés, sur inscription\n🤝 Jeudi 3 décembre, 9h30 : Jeudi de l'intérim avec Iziwork, à La Rochelle, avec ou sans rendez-vous\n💙 Jeudi 3 décembre, 14h : Forum de l'emploi du médico-social à La Rochelle (aide-soignant, accompagnant éducatif et social, aide à domicile, éducateur…). Débutants acceptés\n\nHoraires, conditions et inscriptions sur notre agenda, gratuit et sans compte : le lien est dans la bio.\n\nVous connaissez quelqu'un qui cherche du travail dans le coin ? Envoyez-lui ce post.\n\n#LaRochelle #EmploiLaRochelle #CharenteMaritime #JobDating #Recrutement #Interim #MedicoSocial #RechercheDEmploi",
+  "textes_alternatifs": [
+    "Couverture bleu marine : 6 rendez-vous pour rencontrer des recruteurs d'ici le 3 décembre, à La Rochelle et Lagord.",
+    "Liste des rendez-vous du jeudi 26 novembre : Randstad Inhouse à Lagord, Abalone à Lagord, Jeudi de l'intérim avec LIP à La Rochelle.",
+    "Liste des rendez-vous suivants : Shiva le vendredi 27 novembre, Jeudi de l'intérim avec Iziwork et Forum de l'emploi du médico-social le jeudi 3 décembre, à La Rochelle.",
+    "Conseils avant d'y aller : apporter un CV à jour, vérifier si l'inscription est nécessaire, préparer une courte présentation.",
+    "Dernière image : tout l'agenda de l'emploi sur la-rochelle-travail.fr, envoyez ce post à quelqu'un qui cherche du travail."
+  ],
+  "images": [
+    {"type": "couverture", "classe": "marine", "sur": "Agenda de l'emploi", "titre": "6 rendez-vous pour *rencontrer* des recruteurs.", "texte": "D'ici le 3 décembre, à La Rochelle et à Lagord. Ouverts à tous."},
+    {"type": "liste", "sur": "Jeudi 26 novembre", "titre": "Trois recruteurs, *une matinée*.", "elements": [
+      {"jour": "Jeu.", "num": "26", "titre": "Randstad Inhouse recrute", "detail": "Lagord · 9h · industrie, profils expérimentés"},
+      {"jour": "Jeu.", "num": "26", "titre": "Abalone recrute", "detail": "Lagord · 9h · logistique et agroalimentaire · CV à jour"},
+      {"jour": "Jeu.", "num": "26", "titre": "Jeudi de l'intérim : LIP", "detail": "La Rochelle · 9h30 · industrie, bâtiment, logistique"}
+    ]},
+    {"type": "liste", "sur": "Vendredi 27 et jeudi 3 décembre", "titre": "Et la semaine *prochaine*.", "elements": [
+      {"jour": "Ven.", "num": "27", "titre": "Shiva recrute des employé(e)s de maison", "detail": "La Rochelle · 9h30 · débutants acceptés · sur inscription"},
+      {"jour": "Jeu.", "num": "3", "titre": "Jeudi de l'intérim : Iziwork", "detail": "La Rochelle · 9h30 · avec ou sans rendez-vous"},
+      {"jour": "Jeu.", "num": "3", "titre": "Forum de l'emploi du médico-social", "detail": "La Rochelle · 14h · aide-soignant, AES, éducateur… · débutants acceptés"}
+    ]},
+    {"type": "texte", "sur": "Avant d'y aller", "titre": "Mettez toutes les chances de *votre côté*.", "paragraphes": ["Apportez un CV à jour : plusieurs recruteurs le demandent.", "Vérifiez si une inscription est nécessaire : certains rendez-vous l'exigent."], "encadre": {"titre": "Le bon réflexe", "texte": "Préparez une phrase pour vous présenter et une ou deux questions sur le poste."}},
+    {"type": "fin", "classe": "rouille", "sur": "Gratuit · sans compte", "titre": "Tout l'agenda sur le *site*.", "texte": "Horaires, conditions et liens d'inscription : la-rochelle-travail.fr/agenda.", "appel": "Envoyez ce post à quelqu'un qui cherche du travail."}
+  ]
+}
