@@ -1,0 +1,17 @@
+{
+  "legende": "La candidature spontanée : se placer avant l'annonce ✉️\n\nQuand une entreprise a besoin de quelqu'un, elle regarde d'abord les CV reçus récemment et les candidats qui sont passés la voir. L'annonce ne vient qu'après, si personne ne convient. Voici quatre idées concrètes :\n\n🎯 Ciblez : vingt candidatures soignées valent mieux que deux cents copiées-collées. Pensez aux entreprises que vous connaissez comme client.\n🚶 Passez en personne pour les commerces, restaurants, artisans, campings, agences d'intérim : déposez votre CV en main propre, en milieu de matinée ou d'après-midi, jamais à midi dans un restaurant.\n📧 Par mail : court et personnalisé. Un objet clair, cinq à huit lignes, le CV en PDF.\n🔁 Relancez au bout d'une semaine. Une absence de réponse n'est pas un refus.\n\nL'annuaire des entreprises du site permet de filtrer par secteur et par commune. Tout est gratuit et sans inscription, le lien est dans la bio.\n\nVous connaissez quelqu'un qui cherche du travail dans le coin ? Envoyez-lui ce post.\n\n#LaRochelle #EmploiLaRochelle #CharenteMaritime #CandidatureSpontanee #CV #RechercheDEmploi #ConseilEmploi",
+  "textes_alternatifs": [
+    "Couverture bleu marine : Réussir sa candidature spontanée, se placer avant l'annonce.",
+    "Conseil 1 : cibler plutôt qu'arroser, vingt candidatures soignées valent mieux que deux cents copiées-collées.",
+    "Conseil 2 : passer en personne pour les commerces, restaurants et agences d'intérim, en milieu de matinée ou d'après-midi.",
+    "Conseil 3 : par mail, court et personnalisé, puis relancer au bout d'une semaine.",
+    "Dernière image : tous les conseils sur la-rochelle-travail.fr, envoyez ce post à quelqu'un qui cherche du travail."
+  ],
+  "images": [
+    {"type": "couverture", "classe": "marine", "sur": "Le conseil", "titre": "La candidature *spontanée*, avant l'annonce.", "texte": "Une entreprise regarde d'abord les CV reçus, puis publie l'annonce."},
+    {"type": "texte", "sur": "1. Cibler", "titre": "Mieux vaut *vingt* que deux cents.", "paragraphes": ["Vingt candidatures soignées valent mieux que deux cents copiées-collées.", "Pensez aux entreprises que vous connaissez comme client : vous savez déjà comment elles fonctionnent."], "encadre": {"titre": "L'annuaire du site", "texte": "Filtrez les entreprises par secteur et par commune."}},
+    {"type": "texte", "sur": "2. Passer en personne", "titre": "Le CV en *main propre*.", "paragraphes": ["Commerces, restaurants, artisans, campings, agences d'intérim : déposez votre CV en personne.", "Passez en milieu de matinée ou d'après-midi. Jamais à midi dans un restaurant."], "encadre": {"titre": "À retenir", "texte": "Demandez le responsable, présentez-vous en une phrase."}},
+    {"type": "texte", "sur": "3. Par mail, puis relancer", "titre": "Court, *personnel*, puis relance.", "paragraphes": ["Un objet clair, cinq à huit lignes, le CV en PDF.", "Une phrase sur l'entreprise montre que ce n'est pas un envoi groupé."], "encadre": {"titre": "La relance", "texte": "Une absence de réponse n'est pas un refus : relancez au bout d'une semaine."}},
+    {"type": "fin", "classe": "rouille", "sur": "Gratuit · sans inscription", "titre": "Tous les conseils sur le *site*.", "texte": "Le détail est sur la-rochelle-travail.fr/conseils.", "appel": "Envoyez ce post à quelqu'un qui cherche du travail."}
+  ]
+}
